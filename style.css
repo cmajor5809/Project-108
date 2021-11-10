@@ -1,0 +1,29 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background: #c3ffc3;
+}
+.header_div
+{
+    background: seashell;
+    color: crimson;
+}
+
+.header_div p{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    width: 180px;
+    font-weight: bolder;
+    letter-spacing: 2.8px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: #ffffff;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(175, 175, 175);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(120, 156, 120);
+}
